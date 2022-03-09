@@ -1,0 +1,30 @@
+(13:32:44) ERR_RTM:hasp driver login = 7
+(13:32:44) INF_LOAD:Starting... praktika_1_0
+(13:32:44) INF_RTM:Detected RTM NT(6.2)
+(13:32:44) INF_RTM:Base TRACE MODE 6 Profiler T-Factory + ver. 6.10.2 ver. 6.10.1 
+(13:32:44) INF_LOAD:max channel = 65535
+(13:32:44) INF_LOAD:Load Channels 2(1 - 2) 
+(13:32:44) INF_LOAD:Templates=1 (math=0 sql=0 scr=1 doc=0 pnl=0) 
+(13:32:44) INF_LOAD:Objects = 0
+(13:32:44) INF_RTM:Timer=0.055s CalcLoop=550ms 
+(13:32:44) INF_LOAD:LoadTime=0.015s CalcPeriod=550ms 
+(13:32:44) INF_RTM:available(MB): pm=16267 vm=2047; free(MB): pm=13469 vm=1927 em=0 after load
+(13:32:44) INF_RTM:total use(MB): pm=2798 vm=120 after load
+(13:32:44) INF_RTM:use(MB): pm=20(20) vm=44(44) pf=13 after load
+(13:32:44) INF_RTM:gh:0 uh:2 hh:167 after load
+(13:33:0) INF_IP:hostname is PCR 
+(13:33:0) INF_IP:card0 addr=0.0.0.0 
+(13:33:0) INF_IP:card1 addr=192.168.100.116 
+(13:33:0) INF_RTM:start time is 0.015 s 
+(13:33:0) INF_RTM:total use(MB): pm=2793 vm=293 after start
+(13:33:0) INF_RTM:use(MB): pm=81(81) vm=67(67) pf=18890 after start
+(13:33:0) INF_RTM:gh:518 uh:225 hh:487 after start
+(13:33:0) INF_FLT:ModeSwitch at start e15=0000 e18=0000 e20=0000 
+(13:33:0) INF_RTM:mode=2(Work) e15=00 e18=00 e20=00 [src4] 
+(13:33:0) INF_GRAPH:scr:1:popup=0 scrref=0 trend=0,0 update=1 
+(13:33:10) INF_RTM:stoping... = 30
+(13:33:10) INF_RTM:main clc stop 
+(13:33:10) INF_RTM:mode=5(Stop) e15=00 e18=00 e20=00 [src0] 
+(13:33:11) INF_RTM:stop time is 1.345 s 
+(13:33:11) INF_RTM:number of calculation = 14
+(13:33:11) INF_RTM:END OF WORK 
